@@ -1,6 +1,6 @@
 package main
 
-import "github.com/deletescape/goop/cmd"
+import "github.com/Lawlez/goop/cmd"
 
 func main()  {
 	cmd.Execute()

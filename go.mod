@@ -1,4 +1,4 @@
-module github.com/deletescape/goop
+module github.com/Lawlez/goop
 
 go 1.14
 

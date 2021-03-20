@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/deletescape/goop/pkg/goop"
+	"github.com/Lawlez/goop/pkg/goop"
 	"github.com/spf13/cobra"
 	"os"
 )

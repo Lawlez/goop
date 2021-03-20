@@ -1,4 +1,4 @@
-# goop
+# goop +loopgoop
 
 Yet another tool to dump a git repository from a website. Code structure and console outputs heavily inspired by [arthaud/git-dumper](https://github.com/arthaud/git-dumper).
 
@@ -6,6 +6,17 @@ Yet another tool to dump a git repository from a website. Code structure and con
 continue to fight for justice, knowledge is power.
 
 ## Usage
+
+### loopgoop Usage
+
+```bash
+usage: ./loopgoop [textfile]
+
+Textfile:
+should be a file with one domain per line
+```
+
+### Standalone Usage
 
 ```bash
 usage: goop [flags] url [dir]
@@ -16,6 +27,10 @@ Flags:
 ```
 
 ### Example
+
+```bash
+$ ./loopgoop top1k.dmp
+```
 
 ```bash
 $ goop example.com

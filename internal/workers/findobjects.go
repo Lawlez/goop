@@ -2,7 +2,7 @@ package workers
 
 import (
 	"fmt"
-	"github.com/deletescape/goop/internal/utils"
+	"github.com/Lawlez/goop/internal/utils"
 	"github.com/go-git/go-git/v5/plumbing"
 	"github.com/go-git/go-git/v5/plumbing/object"
 	"github.com/go-git/go-git/v5/storage/filesystem"

@@ -2,7 +2,7 @@ package workers
 
 import (
 	"fmt"
-	"github.com/deletescape/goop/internal/utils"
+	"github.com/Lawlez/goop/internal/utils"
 	"github.com/valyala/fasthttp"
 	"io/ioutil"
 	"os"

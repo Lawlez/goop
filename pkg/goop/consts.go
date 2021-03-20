@@ -15,6 +15,9 @@ var (
 )
 var (
 	commonFiles = []string{
+		"../.gitignore",
+		"../.git/index",
+		"package.json",
 		".gitignore",
 		".gitattributes",
 		".gitmodules",

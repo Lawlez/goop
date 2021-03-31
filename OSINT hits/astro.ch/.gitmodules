@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+<TITLE>Have you taken a wrong turn? (404 Webpage Not Found)</TITLE>
+</HEAD>
+<BODY BGCOLOR="black" TEXT="red" LINK="red" ALINK="red" VLINK="red">
+<CENTER>
+
+<FONT SIZE="+3">404 File Not Found</FONT>
+
+<P><IMG SRC="/im/planets.jpg"></P>
+<P><FONT SIZE="+2">Ooops</FONT>, it appears that you have taken a wrong turn and have ended up on <B><FONT SIZE="+1">Pluto!</B></FONT></P>
+</CENTER>
+<P><HR></P>
+
+<P>If you wish to report an error, please e-mail me at: <A HREF="mailto:bugmaster@astro.com?subject=404 Error">webmaster@astro.com</A>.
+But this is of value only if you can explain in the email exactly what link you used
+for getting sent to Pluto.
+
+<p>If you come from a page on www.astro.com, the bettter procedure is: use the BACK
+button on your browser to return to the previous page.
+<br>Now find out on which link you clicked to send you to Pluto.
+<p>Then scroll to the bottom of the page, find the link 'report problem', and
+use this link, to describe to us in clear words what you clicked to send you to Pluto.
+<FONT SIZE="-1">
+<P>Go To My <A HREF="/">Main Page</A>. 
+<BR>Go <A HREF=javascript:history.back()>Back</A>.</FONT>
+</BODY>
+</HTML>
